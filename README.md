@@ -1,4 +1,5 @@
-## Hi there 👋
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Omkar%20Pawar&textBg=false&fontAlign=50)" alt="header"/> 
 
 <!--
 **omkarr7/omkarr7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
