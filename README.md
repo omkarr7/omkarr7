@@ -1,17 +1,40 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=Omkar%20Pawar&textBg=false&reversal=true" alt="header"/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Omkar%20Pawar&textBg=false&fontAlign=50)" alt="header"/> 
+## 👋 Hello, I'm Omkar Pawar
 
-<!--
-**omkarr7/omkarr7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's in Data Science & Analytics — University of Leeds (UK)  
+💡 Passionate about solving real-world problems with data  
+📊 Love working with Python, SQL, Power BI & Machine Learning  
+🌍 Currently exploring opportunities in Data Science | Data Engineering
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 What I Know
+
+- **Languages:** Python, SQL, R  
+- **Data Tools:** Pandas, NumPy, Scikit-learn, TensorFlow, MySQL, RStudio  
+- **Visualization:** Power BI, Tableau, Seaborn, Matplotlib  
+- **Web/Cloud:** Flask, Django, Google Cloud Platform, Git, REST APIs  
+- **Collaboration:** GitHub, Notebooks, Confluence, LaTeX
+
+---
+
+### 🚀 Featured Projects
+
+- 🧠 **[Personality Prediction Platform](https://github.com/omkarr7/Personality-Prediction)**  
+  → Django-based app with clustering and data visualization dashboard
+
+- 🎧 **[Music Genre Prediction]** *(Coming soon)*  
+  → Flask app that predicts music genres from waveform inputs using ML models
+
+---
+
+### 📫 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/omkar-pawar-704a791a0)  
+- 🐙 [GitHub](https://github.com/omkarr7)  
+- ✉️ omkarpawar797722@gmail.com  
+
+---
+
+> “Without data, you're just another person with an opinion.” – W. Edwards Deming
