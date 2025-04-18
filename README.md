@@ -21,7 +21,7 @@
 
 ### 🚀 Featured Projects
 
-- 🧠 **[Personality Prediction Platform](https://github.com/omkarr7/Personality-Prediction)**  
+- 🧠 **[Personality Prediction Platform](https://github.com/omkarr7/personalityPrediction)**  
   → Django-based app with clustering and data visualization dashboard
 
 - 🎧 **[Music Genre Prediction]** *(Coming soon)*  
