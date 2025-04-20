@@ -24,6 +24,9 @@
 - 🧠 **[Personality Prediction Platform](https://github.com/omkarr7/personalityPrediction)**  
   → Django-based app with clustering and data visualization dashboard
 
+- 🍄 **[Can I eat this Mushroom?](https://github.com/omkarr7/Can-I-eat-the-mushroom)**  
+  → Used decision trees, random forest, logistic regression, and cross-validation in R to classify edible vs. poisonous mushrooms. Performed exploratory data analysis and correlation mapping.
+
 - 🎧 **[Music Genre Prediction]** *(Coming soon)*  
   → Flask app that predicts music genres from waveform inputs using ML models
 
