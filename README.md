@@ -27,6 +27,10 @@
 - 🍄 **[Can I eat this Mushroom?](https://github.com/omkarr7/Can-I-eat-the-mushroom)**  
   → Used decision trees, random forest, logistic regression, and cross-validation in R to classify edible vs. poisonous mushrooms. Performed exploratory data analysis and correlation mapping.
 
+- 🚢 **[Time Series and Spectral Analysis](https://github.com/omkarr7/Time-Series-and-Spectral-Analysis)**
+  
+  → This project analyzes historical slavery estimates using time series methods in R. Included trend modeling, ACF/PACF diagnostics, AR model fitting, spectral analysis with periodograms, and ARIMA-based forecasting. Demonstrates a full statistical workflow from visualization to prediction.
+  
 - 🎧 **[Music Genre Prediction]** *(Coming soon)*  
   → Flask app that predicts music genres from waveform inputs using ML models
 
